@@ -1,0 +1,89 @@
+body{
+  text-align: center;
+  font-family: 'Montserrat' sans-serif;
+  font-size: 17px;
+  margin: 0;
+    }
+
+h1 {
+  position: relative;
+  font-family: 'Sacramento';
+  color: #327fa8;
+  font-size: 100px;
+  font-weight: normal;
+}
+
+h2 {
+font-size: 50px;
+font-weight: 300;
+text-align: center;
+ color: #66BFBF;
+}
+
+a {
+text-decoration: none;
+color: #2d7ab5;
+}
+
+a:hover {
+  color: #834d85;
+}
+
+.projects {
+
+}
+.computer-img {
+  position: relative;
+  padding-right: 40px;
+  width: 16rem;
+  mix-blend-mode: multiply;
+}
+
+.mountain-img{
+  width: 40rem;
+  padding-right: 20rem;
+}
+
+.top-container{
+  background-color: #F4FCD9;
+  padding-top: 100px;
+}
+
+.middle-container{
+margin: 100px 0;
+}
+
+.skills {
+  text-align: left;
+  width: 5%;
+  margin: 100px auto 100px auto;
+  padding-left: 30px;
+  }
+
+.btn{
+background: #11cdd4;
+font-size: 20px;
+font-style: 'Montserrat' normal;
+color: white;
+padding: 10px 20px 10px 20px;
+border-radius: 10px;
+top: 40px;
+position: relative;
+}
+
+
+.btn:hover{
+  background-color: #30e3cb;
+  }
+
+  .bottom-container {
+    background-color: #66BFBF;
+    padding: 30px 0 20px 20px;
+  }
+
+.contact-me {
+  margin: 80px 0;
+}
+.fotter-link:hover {
+color: #ffff;
+}
