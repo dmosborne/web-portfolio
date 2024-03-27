@@ -13,6 +13,20 @@ h1 {
   font-weight: normal;
 }
 
+h1 {animation: name ease 3s;
+  animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+  }
+
+@keyframes name {
+
+  0% {
+    opacity: 0;
+  }
+   100% {
+     opacity:100;
+   }
+}
 h2 {
 font-size: 50px;
 font-weight: 300;
