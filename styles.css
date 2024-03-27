@@ -59,6 +59,7 @@ a:hover {
 }
 
 .projects {
+padding-right: 30px;
 display: none;
 }
 .computer-img {
@@ -86,7 +87,7 @@ margin: 100px 0;
   text-align: left;
   width: 5%;
   margin: 100px auto 100px auto;
-  padding-left: 30px;
+  padding-right: 30px;
   display: none;
   }
 
