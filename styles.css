@@ -32,7 +32,7 @@ font-size: 40px;
 font-weight: 300;
 text-align: center;
  color: #0265d6;
-  outline-color: #ffffff;
+  outline-color: #0f0f0f;
   
 }
 
@@ -115,7 +115,7 @@ position: relative;
   }
 
 .created-projects{
-font-size: 15px;
+font-size: 20px;
 }  
 .contact-me {
   margin: 80px 0;
