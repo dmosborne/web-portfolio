@@ -33,7 +33,8 @@ font-weight: 300;
 text-align: center;
  color: #0265d6;
   outline-style: stolid;
-  outline-color: #0f0f0f;
+  outline-color: #000;
+  outline-width: thick;
   
 }
 
