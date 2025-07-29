@@ -28,10 +28,12 @@ h1 {animation: name ease 3s;
    }
 }
 h2 {
-font-size: 50px;
+font-size: 40px;
 font-weight: 300;
 text-align: center;
- color: #66BFBF;
+ color: #0265d6;
+  outline-color: #ffffff;
+  
 }
 
 h2 { animation: name2 ease 4s;
