@@ -3,7 +3,6 @@ body{
   font-family: 'Montserrat' sans-serif;
   font-size: 17px;
   margin: 0;
-  background-color: #F4FCD9;
     }
 
 h1 {
@@ -78,11 +77,12 @@ display: none;
 }
 
 .top-container{
- 
+ background-color: #F4FCD9;
   padding-top: 100px;
 }
 
 .middle-container{
+background-color: #F4FCD9;
 margin: 100px 0;
 }
 
@@ -95,7 +95,7 @@ margin: 100px 0;
   }
 
 .skills-title {
-font-size: 40px;
+
 }
 
 .btn{
