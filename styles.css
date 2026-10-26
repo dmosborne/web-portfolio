@@ -11,6 +11,8 @@ h1 {
   color: #327fa8;
   font-size: 100px;
   font-weight: normal;
+  ouitline-style: line;
+  outline-color: #ffffff;
 }
 
 h1 {animation: name ease 3s;
