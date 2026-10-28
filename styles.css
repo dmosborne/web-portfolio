@@ -104,12 +104,13 @@ margin: 100px 0;
 
 
 .skills-title {
-font-size: 34px;
+font-family: 'Playfair-Display';
+font-size: 24px;
 }
 
 .btn{
 background: #11cdd4;
-font-size: 15px;
+font-size: 20px;
 font-style: 'Playfair-Display';
 color: black;
 padding: 10px 20px 10px 20px;
