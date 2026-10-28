@@ -1,10 +1,16 @@
 
 $(".skills-title").click(function(){
 $(".skills").show();
-  $(".skills").hide();
+});
+
+$(".skills-title").click(function(){
+$(".skills").hide();
 });
 
 $(".created-projects").click(function(){
 $(".projects").show();
-  $(".projects").hide();
+});
+
+$(".created-projects").click(function(){
+$(".projects").hide();
 });
