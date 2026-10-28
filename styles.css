@@ -52,6 +52,12 @@ h2 { animation: name2 ease 4s;
 }
 }
 
+
+h3 {
+  font-family: 'Montagu Slab';
+  font-weight: 100;
+}
+
 a {
 text-decoration: none;
 color: #2d7ab5;
