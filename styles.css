@@ -101,6 +101,11 @@ margin: 100px 0;
   display: none;
   }
 
+
+.skills-title {
+font-size: 34px;
+}
+
 .btn{
 background: #11cdd4;
 font-size: 20px;
