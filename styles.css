@@ -12,7 +12,7 @@ h1 {
   font-size: 100px;
   font-weight: normal;
  -webkit-text-stroke: 1px;
-  webkit-text-stroke-color:white;
+  -webkit-text-stroke-color: white;
 }
 
 h1 {animation: name ease 3s;
