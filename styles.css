@@ -134,6 +134,15 @@ font-size: 24px;
 }
 
 .client-box {
+   text-align: left;
+  width: 5%;
+ margin: 100px auto 100px auto;
+  padding-right: 30px;
+  display: none;
+  padding-bottom: 30px;
+}
+
+.clients-title {
 font-family: 'Playfair-Display';
 font-size: 24px;
 padding-right: 150px;
