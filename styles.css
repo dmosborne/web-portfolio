@@ -121,9 +121,10 @@ margin: 100px 0;
 .skills {
   text-align: left;
   width: 5%;
-
+ margin: 100px auto 100px auto;
   padding-right: 30px;
   display: none;
+  padding-bottom: 30px;
   }
 
 
