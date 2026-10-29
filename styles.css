@@ -92,14 +92,14 @@ display: none;
 .html-img {
   position: relative;
   padding-right: 40px;
-  width: 20%;
+  width: 10%;
   mix-blend-mode: multiply;
 }
 
 .css-img {
   position: relative;
   padding-left: 10px;
-  width: 20%;
+  width: 10%;
   mix-blend-mode: multiply;
 }
 
