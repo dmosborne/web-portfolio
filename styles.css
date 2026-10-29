@@ -136,9 +136,9 @@ font-size: 24px;
 .client-box {
   position: absolute;
   top: 0px;
-  left: 0px;
+  left: 50px;
   width: 100%;
-  padding-right: 120px;
+  padding-right: 80px;
 }
 
 .clients-title {
