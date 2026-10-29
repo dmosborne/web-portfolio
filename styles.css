@@ -134,11 +134,11 @@ font-size: 24px;
 }
 
 .client-box {
-  position: relative;
+  position: absolute;
   top: 0px;
   left: 120px;
   width: 100%;
-  padding-right: 110px;
+  padding-right: 120px;
 }
 
 .clients-title {
@@ -152,7 +152,6 @@ font-size: 24px;
   margin: 100px auto 100px auto;
   padding-right: 30px;
   display: none;
-  padding-bottom: 30px;
 }
 
 .btn{
