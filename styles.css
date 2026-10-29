@@ -110,6 +110,17 @@ display: none;
 margin: 100px 0;
 }
 
+/* Container holding both boxes */
+.top-right-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  gap: 30px;
+
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}
 .skills-box {
   position: static;
   top: 0px;
