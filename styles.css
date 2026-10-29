@@ -61,7 +61,7 @@ h3 {
 }
 
 
-h3 { animation: name2 ease 4s;
+h3 { animation: subtitle ease 4s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
