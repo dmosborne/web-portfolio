@@ -138,7 +138,7 @@ font-size: 24px;
   text-align: left;
   width: 5%;
    margin: 100px auto 100px auto;
-  padding-right: 30px;
+  /*padding-right: 30px;*/
   display: none;
   padding-bottom: 30px;
   }
@@ -158,9 +158,9 @@ font-size: 24px;
 
 .clients{
   text-align: left;
-  width: 50%;
+  width: 5%;
   margin: 100px auto 100px auto;
-  padding-right: 30px;
+  /*padding-right: 30px;*/
   display: none;
 }
 
