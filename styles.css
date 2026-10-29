@@ -98,8 +98,8 @@ display: none;
 
 .profile-pic{
   width: 20rem;
-  padding-right: 20rem;
-  position: static;
+  /*padding-right: 20rem;*/
+  /*position: static;*/
 }
 
 .css-img {
