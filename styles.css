@@ -136,7 +136,7 @@ font-size: 24px;
 .client-box {
   position: absolute;
   top: 0px;
-  left: 0px;
+  left: 120px;
   width: 100%;
   padding-right: 110px;
 }
@@ -150,7 +150,7 @@ font-size: 24px;
   text-align: left;
   width: 5%;
   margin: 100px auto 100px auto;
-  padding-right: 100px;
+  padding-right: 30px;
   display: none;
   padding-bottom: 30px;
 }
