@@ -29,6 +29,7 @@ h1 {animation: name ease 3s;
      opacity:100;
    }
 }
+
 h2 {
 font-family: 'Playfair + Display';
 font-size: 60px;
@@ -36,7 +37,6 @@ font-weight: 500;
 text-align: center;
  color: #000000;
   text-shadow: 5px #000;
-  
 }
 
 h2 { animation: name2 ease 4s;
@@ -61,7 +61,7 @@ h3 {
 }
 
 
-h3 { animation: subtitle ease 4s;
+h3 { animation: subtitle ease 3s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
@@ -118,20 +118,19 @@ margin: 100px 0;
   padding-right: 60px;
 }
 
-.skills {
-  text-align: left;
-  width: 5%;
- margin: 100px auto 100px auto;
-  padding-right: 30px;
-  display: none;
-  padding-bottom: 30px;
-  }
-
-
 .skills-title {
 font-family: 'Playfair-Display';
 font-size: 24px;
 }
+
+  .skills {
+  text-align: left;
+  width: 5%;
+   margin: 100px auto 100px auto;
+  padding-right: 30px;
+  display: none;
+  padding-bottom: 30px;
+  }
 
 .clients-box {
   position: absolute;
