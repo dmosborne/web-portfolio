@@ -66,7 +66,7 @@ h3 { animation: name2 ease 4s;
   animation-fill-mode: forwards;
 }
 
-@keyframes name2 {
+@keyframes subtitle {
 
   0% {
   opacity: 0;
