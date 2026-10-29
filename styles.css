@@ -136,9 +136,9 @@ font-size: 24px;
 .clients-box {
   position: absolute;
   top: 0px;
-  left: 120px;
+  left: 0px;
   width: 100%;
-  padding-right: 120px;
+  padding-right:80px;
 }
 
 .clients-title {
@@ -156,7 +156,7 @@ font-size: 24px;
 
 .btn{
 background: #11cdd4;
-font-size: 20px;
+font-size: 24px;
 font-style: 'Playfair-Display';
 color: black;
 padding: 10px 20px 10px 20px;
