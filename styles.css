@@ -96,6 +96,12 @@ display: none;
   mix-blend-mode: multiply;
 }
 
+.profile-pic{
+  width: 20rem;
+  padding-right: 20rem;
+  position: static;
+}
+
 .css-img {
   position: relative;
   padding-left: 4px;
@@ -103,10 +109,7 @@ display: none;
   mix-blend-mode: multiply;
 }
 
-.profile-pic{
-  width: 20rem;
-  padding-right: 20rem;
-}
+
 
 .top-container{
  background-color: #F4FCD9;
