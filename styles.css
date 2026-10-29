@@ -111,11 +111,11 @@ margin: 100px 0;
 }
 
 .skills-box {
-  position: absolute;
+  position: static;
   top: 0px;
   left: 0px;
-  width: 100%;
-  padding-right: 60px;
+  width: auto
+  padding: 0;
 }
 
 .skills-title {
@@ -133,11 +133,12 @@ font-size: 24px;
   }
 
 .clients-box {
-  position: absolute;
+  position: static;
   top: 0px;
-  right: 100px;
-  width: 100%;
-  padding-right:100px;
+  left: 0;
+  width: auto;
+  padding: 0;
+  gap-right: 30px;
 }
 
 .clients-title {
