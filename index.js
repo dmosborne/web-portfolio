@@ -7,6 +7,6 @@ $(".created-projects").click(function(){
 $(".projects").show();
 });
 
-$(".client-box").click(function(){
+$(".clients-title").click(function(){
 $(".clients").show();
 });
