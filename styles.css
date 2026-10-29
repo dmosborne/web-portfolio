@@ -91,14 +91,14 @@ display: none;
 }
 .html-img {
   position: relative;
-  padding-right: 40px;
+  padding-right: 20px;
   width: 15rem;
   mix-blend-mode: multiply;
 }
 
 .profile-pic{
   width: 20rem;
-  /*padding-right: 20rem;*/
+  padding-right: 20px;
   /*position: static;*/
 }
 
