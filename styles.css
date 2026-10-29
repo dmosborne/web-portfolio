@@ -60,6 +60,22 @@ h3 {
   font-weight: 400;
 }
 
+
+h3 { animation: name2 ease 4s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes name2 {
+
+  0% {
+  opacity: 0;
+}
+100% {
+  opacity: 1;
+}
+}
+
 a {
 text-decoration: none;
 color: #2d7ab5;
