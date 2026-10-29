@@ -111,9 +111,11 @@ margin: 100px 0;
 }
 
 .skills-box {
-  position:fixed;
+  position: absolute;
   top: 0px;
   right: 0px;
+  width: 100%;
+  padding-left: 60px;
 }
 
 .skills {
