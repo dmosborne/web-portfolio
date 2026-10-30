@@ -98,6 +98,7 @@ display: none;
 
 .profile-pic{
   width: 20rem;
+  justify-content: center; 
   /*padding-right: 20px;*/
   position: absolute;
 }
