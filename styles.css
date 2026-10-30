@@ -103,16 +103,19 @@ display: none;
 .profile-pic{
   width: 20rem;
   height: auto;
+  flex-shrink: 0;
 }
 
 .html-img {
   width: 15rem;
   mix-blend-mode: multiply;
+  flex-shrink: 0;
 }
 
 .css-img {
   width: 5rem;
   mix-blend-mode: multiply;
+  flex-shrink: 0;
 }
 
 
