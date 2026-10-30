@@ -148,8 +148,9 @@ font-size: 24px;
   text-align: center;
   width: 5%;
    margin: 100px auto 100px auto;
-  padding-right: 30px;
+  padding-right: 0;
   display: none;
+  display: block;
   /*padding-bottom: 30px;*/
   }
 
@@ -170,8 +171,9 @@ font-size: 24px;
   text-align: Center;
   width: 5%;
   margin: 100px auto 100px auto;
-  padding-right: 30px;
+  padding-right: 0;
   display: none;
+  display: block;
 }
 
 .btn{
