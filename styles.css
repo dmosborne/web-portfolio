@@ -125,7 +125,7 @@ margin: 100px 0;
   display: flex;
   justify-content: flex-end;
   align-items: flex-start;
-  gap: 10px;
+  gap: 20px;
 
   position: absolute;
   top: 10px;
@@ -135,8 +135,8 @@ margin: 100px 0;
   position: static;
   top: 0px;
   left: 0px;
-  width: auto
-  padding: 0 auto;
+  width: 100%;
+  padding: 0;
 }
 
 .skills-title {
@@ -147,9 +147,9 @@ font-size: 24px;
   .skills {
   display: block;
   text-align: center;
-  width: 5%;
-   margin: 100px auto 100px auto;
-  padding-right: 0;
+  width: 100%;
+   margin: 0;
+  padding: 10px;
   display: none;
   
   /*padding-bottom: 30px;*/
@@ -159,7 +159,7 @@ font-size: 24px;
   position: static;
   top: 0px;
   left: 0;
-  width: auto;
+  width: 100%;
   padding: 0;
 }
 
@@ -170,11 +170,10 @@ font-size: 24px;
 
 .clients{
   text-align: Center;
-  width: 5%;
-  margin: 100px auto 100px auto;
-  padding-right: 0;
+  width: 100%;
+  margin: 0;
+  padding: 10px;
   display: none;
-  display: block;
 }
 
 .btn{
