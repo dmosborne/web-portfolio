@@ -100,14 +100,14 @@ display: none;
   margin: 0 auto;
 }
 
-.html-img {
-  width: 15rem;
-  mix-blend-mode: multiply;
-}
-
 .profile-pic{
   width: 20rem;
   height: auto;
+}
+
+.html-img {
+  width: 15rem;
+  mix-blend-mode: multiply;
 }
 
 .css-img {
