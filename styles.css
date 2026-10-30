@@ -97,8 +97,8 @@ display: none;
   align-items: center;
   gap: 20px;
   width: 100%;
-  margin: 0 auto;
-  padding-bottom: 40px;
+  margin: 0 auto 20 auto;
+
 }
 
 .profile-pic{
