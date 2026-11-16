@@ -3,6 +3,7 @@ body{
   font-family: 'Montserrat' sans-serif;
   font-size: 17px;
   margin: 0;
+  background-color: #eff2d0;
     }
 
 h1 {
@@ -120,7 +121,12 @@ display: none;
   flex-shrink: 0;
 }
 
-
+.javascript-img {
+  .css-img {
+  width: 8rem;
+  mix-blend-mode: multiply;
+  flex-shrink: 0;
+  }
 
 .top-container{
  background-color: #F4FCD9;
