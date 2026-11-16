@@ -1,9 +1,9 @@
 
-$(".skills-box").click(function(){
+$(".skills-title").click(function(){
 $(".skills").show();
 });
 
-$(".clients-box").click(function(){
+$(".clients-title").click(function(){
 $(".clients").show();
 });
 
