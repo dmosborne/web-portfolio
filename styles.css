@@ -125,7 +125,7 @@ display: none;
   .css-img {
   width: 4rem;
   mix-blend-mode: multiply;
-  flex-shrink: 5;
+  flex-shrink: 10;
   }
 
 .top-container{
@@ -163,12 +163,13 @@ font-size: 20px;
 }
 
   .skills {
+  display: none;
   display: block;
   text-align: center;
   width: 100%;
    margin: 0;
   padding: 10px;
-  display: none;
+ 
   
   /*padding-bottom: 30px;*/
   }
@@ -187,11 +188,11 @@ font-size: 20px;
 }
 
 .clients{
+  display: none;
   text-align: Center;
   width: 100%;
   margin: 0;
   padding: 10px;
-  display: none;
   position: relative;
   z-index: 10;
 }
