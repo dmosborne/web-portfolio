@@ -125,7 +125,7 @@ display: none;
   .css-img {
   width: 4rem;
   mix-blend-mode: multiply;
-  flex-shrink: 0;
+  flex-shrink: 5;
   }
 
 .top-container{
