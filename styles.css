@@ -140,7 +140,7 @@ align-items: center;
 }
 
 /* Container holding both boxes */
-.top-right-container {
+.menu-tabs {
   display: flex;
   justify-content: flex-end;
   align-items: flex-start;
