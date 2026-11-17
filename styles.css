@@ -148,7 +148,9 @@ align-items: center;
   position: absolute;
   top: 10px;
   right: 10px;
+   padding-bottom: 30px;
 }
+  
 .skills-box {
   position: static;
   top: 0px;
@@ -159,7 +161,6 @@ align-items: center;
 
 .skills-title {
 font-family: 'Playfair-Display';
-font-size: 20px;
 }
 
   .skills {
@@ -169,9 +170,7 @@ font-size: 20px;
   width: 100%;
    margin: 0;
   padding: 10px;
- 
-  
-  /*padding-bottom: 30px;*/
+
   }
 
 .clients-box {
@@ -184,7 +183,6 @@ font-size: 20px;
 
 .clients-title {
 font-family: 'Playfair-Display';
-font-size: 20px;
 }
 
 .clients{
