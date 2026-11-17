@@ -165,6 +165,7 @@ align-items: center;
 
 .skills-title {
 font-family: 'Playfair-Display';
+font-size: 18px;
 }
 
   .skills {
@@ -190,6 +191,7 @@ font-family: 'Playfair-Display';
 
 .clients-title {
 font-family: 'Playfair-Display';
+  font-size: 18px;
 }
 
 .clients{
