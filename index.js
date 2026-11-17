@@ -1,4 +1,3 @@
-
 $(".skills-title").click(function(){
 $(".skills").show();
 });
